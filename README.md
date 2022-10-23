@@ -13,5 +13,5 @@ Email : mirfansyafiq@gmail.com
 
 ## &#x1f4c8; GitHub Stats 
 [![Ifansyfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifansyfiq&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/Ifansyfiq)
-<br>
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifansyfiq&theme=radical&langs_count=10&hide=html,css,makefile,shell,Dockerfile&layout=compact&custom_title=hayai's%20Top%20Languages" height=195px/>
