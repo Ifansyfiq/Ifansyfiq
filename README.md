@@ -11,8 +11,8 @@ Me a software engineering student, currently studying at my local university as 
 🕹️ Play games sometimes<br>
 
 ## 📞 Contact me
-Email : mirfansyafiq@gmail.com
-Linkedln : 
+Email : mirfansyafiq@gmail.com <br>
+Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
 ## &#x1f4c8; GitHub Stats 
 [![Ifansyfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifansyfiq&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/Ifansyfiq)
 <br><br>
