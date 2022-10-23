@@ -12,7 +12,7 @@ Me a software engineering student, currently studying at my local university as 
 Email: mirfansyafiq@gmail.com<br>
 Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
 
-## Skill
+## 👁️‍🗨️ Skill
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -30,10 +30,10 @@ Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
 ![](	https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-## Music
+## 🎵 Music
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31eugtvprp3hjdriqyp4t5ucoprq?si=ebe460fdf1394f2b) 
 
-# IDE
+## Ide
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
