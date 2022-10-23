@@ -12,7 +12,7 @@ Me a software engineering student, currently studying at my local university as 
 
 ## 📞 Contact me
 Email : mirfansyafiq@gmail.com
-
+Linkedln : 
 ## &#x1f4c8; GitHub Stats 
 [![Ifansyfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifansyfiq&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/Ifansyfiq)
 <br><br>
