@@ -9,7 +9,7 @@ Me a software engineering student, currently studying at my local university as 
 🕹️ Play games sometimes<br>
 
 ## 📞 Contact me
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) : mirfansyafiq@gmail.com
+Email: mirfansyafiq@gmail.com<br>
 Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
 
 ## Skill
