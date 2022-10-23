@@ -6,7 +6,6 @@ Me a software engineering student, currently studying at my local university as 
 ## 👾 About me
 ✌️ My name is Irfan<br>
 🤓 Born in April<br>
-🏸 Play sport(not athletic🥲)<br>
 🕹️ Play games sometimes<br>
 
 ## 📞 Contact me
