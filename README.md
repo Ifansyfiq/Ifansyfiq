@@ -5,7 +5,6 @@ Me a software engineering student, currently studying at my local university as 
 
 ## 👾 About me
 ✌️ My name is Irfan<br>
-🤓 Born in April<br>
 🕹️ Play games sometimes<br>
 
 ## 📞 Contact me
@@ -19,7 +18,6 @@ Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
