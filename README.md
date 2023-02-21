@@ -3,10 +3,6 @@
 ## Hello world, I'm Hayai! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 Me a software engineering student, currently studying at my local university as a 3rd year student. 
 
-## 👾 About me
-✌️ My name is Irfan<br>
-🕹️ Play games sometimes<br>
-
 ## 📞 Contact me
 Email: mirfansyafiq@gmail.com<br>
 Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
