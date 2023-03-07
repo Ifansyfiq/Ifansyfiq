@@ -29,9 +29,3 @@ Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
 ## Ide
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-
-
-## &#x1f4c8; GitHub Stats 
-[![Ifansyfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifansyfiq&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/Ifansyfiq)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifansyfiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
