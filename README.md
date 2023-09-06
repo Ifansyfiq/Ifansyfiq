@@ -1,7 +1,7 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="ifan" src="https://github.com/Ifansyfiq.png">
 
 ## Hello world, I'm Hayai! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-Me a software engineering student, currently studying at my local university as a 3rd year student. 
+Me a software engineering student, currently studying at my local university as a final year student. 
 
 ## 📞 Contact me
 Email: mirfansyafiq@gmail.com<br>
@@ -22,10 +22,3 @@ Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](	https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-## 🎵 Music
-[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31eugtvprp3hjdriqyp4t5ucoprq?si=ebe460fdf1394f2b) 
-
-## Ide
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
