@@ -5,4 +5,4 @@ Me a software engineering student, currently studying at my local university as 
 
 ## 📞 Contact me
 Email: mirfansyafiq@gmail.com<br>
-Linkedln : www.linkedin.com/in/irfan-syafiq-980a27131
+Linkedln : https://www.linkedin.com/in/irfnsyfq/
